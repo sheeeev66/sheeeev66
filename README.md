@@ -6,7 +6,7 @@
 - 📫 How to reach me: Discord is the best way to reach me, then instagram, then telegram, then email.
 - ⚡ Fun fact: I love math and I play the piano!
 - 💬 Ask me about anything crypto!
-- 😄 Pronouns: He/Him
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
