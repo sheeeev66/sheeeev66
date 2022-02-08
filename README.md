@@ -1,8 +1,8 @@
 ### Hello there 👋
 
 - ⌨️ Co Founder of "the core devs" (thecoredevs.com)
-- 🔭 I’m currently working on a 10K generative NFT project.
-- 🌱 I’m currently learning flying planes, javascript, html, and css.
+- 🔭 I’m currently working on blockchain projects
+- 🌱 I’m currently learning a lot of random shit
 - 📫 How to reach me: Discord is the best way to reach me, then instagram, then telegram, then email.
 - ⚡ Fun fact: I love math and I play the piano!
 - 💬 Ask me about anything crypto!
